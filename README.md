@@ -4,7 +4,7 @@ sudo apt install stow
 ```
 ```bash
 cd ~
-git clone https://github.com/usuario/Dotfiles-stow.git
+git clone https://github.com/miguelcalisto/Dotfiles-stow.git
 cd Dotfiles-stow
 ```
 
