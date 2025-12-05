@@ -16,8 +16,8 @@ ls -la ~ | grep '\.zshrc\|\.bashrc\|\.tmux.conf'
 ```
 ```bash
 chmod +x ~/.local/bin/*
-chmod +x ~/scripts/scripts/*
-chmod +x ~/scripts/SCRIPTS/*
+chmod +x ~/scripts/*
+chmod +x ~/SCRIPTS/*
 ```
 
 
